@@ -1,4 +1,4 @@
-# curtivo_spotify
+# baluyot_spotify
 
 A new Flutter project.
 
