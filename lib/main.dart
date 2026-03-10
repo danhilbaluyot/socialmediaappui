@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Curtivo — Flutter',
+      title: 'Baluyot — Flutter',
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: const Color(0xFF071217),
         colorScheme: ColorScheme.dark(primary: const Color(0xFF1DB954)),
